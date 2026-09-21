@@ -1,4 +1,4 @@
-# UniGrade & Attendance Tracker
+# University Grade & Attendance Tracker
 
 ### 👥 Team Members & Credentials
 * **Rajith Balaji** - ID: `2620030198`
@@ -11,7 +11,7 @@
 ---
 
 ### 📄 Abstract
-The UniGrade & Attendance Tracker is a comprehensive digital management tool designed to streamline academic monitoring for students and faculty. The application provides an intuitive interface to log, track, and analyze cumulative course grades alongside daily attendance metrics. By offering real-time updates and performance data visualization, the system helps students maintain awareness of their academic standings, track attendance requirements, and proactively manage their progress throughout the semester.
+The University Grade & Attendance Tracker is a comprehensive digital management tool designed to streamline academic monitoring for students and faculty. The application provides an intuitive interface to log, track, and analyze cumulative course grades alongside daily attendance metrics. By offering real-time updates and performance data visualization, the system helps students maintain awareness of their academic standings, track attendance requirements, and proactively manage their progress throughout the semester.
 
 ---
 
