@@ -1,6 +1,6 @@
 # University Grade & Attendance Tracker
 
-### 👥 Team Members & Credentials
+### 👥 Team Members 
 * **Rajith Balaji** - ID: `2620030198`
 * **Surya** - ID: `2620090023`
 * **Vineet** - ID: `2620030155`
